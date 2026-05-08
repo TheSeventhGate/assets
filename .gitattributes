@@ -1,0 +1,6 @@
+*.obj text eol=lf
+*.mtl text eol=lf
+*.png binary
+*.jpg binary
+*.glb binary
+*.fbx binary
